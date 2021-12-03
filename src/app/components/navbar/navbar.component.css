@@ -1,0 +1,8 @@
+@import url(./../../../styles.css);
+
+.navbar{
+    background-color: var(--primary);      
+  }
+.container-fluid{
+     justify-content: center; 
+}
